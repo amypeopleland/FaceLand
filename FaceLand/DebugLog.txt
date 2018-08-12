@@ -1,0 +1,32 @@
+=========================InitializeTheNET Starts!==========================
+This is a Server, host name is {0}WINDOWS-T4NJ8QU
+Waiting For Client!
+=========================InitializeTheNET Waiting!==========================
+========================= Starts' Preparation!==========================
+PrePare Function:strVaule:list
+PrePare Function:actionElement:list
+PrePare Function:strVaule:get
+PrePare Function:actionElement:get
+PrePare Function:strVaule:setPos
+PrePare Function:actionElement:setPos
+PrePare Function:strVaule:setRotation
+PrePare Function:actionElement:setRotation
+PrePare Function:strVaule:setScale
+PrePare Function:actionElement:setScale
+PrePare Function:strVaule:save
+PrePare Function:actionElement:save
+PrePare Function:strVaule:reset
+PrePare Function:actionElement:reset
+=========================Finish Starts' Preparation!==========================
+2017 6:30:09 PM]receive set position Data:1,1,1,name:ice_gray
+ame:ice_gray
+[3/19/2017 5:04:53 PM]receive set position Data:(100,19.5,-1.1),name:ice_gray
+[3/19/2017 5:05:40 PM]receive set position Data:100,19,-1,name:ice_gray
+[3/19/2017 5:05:45 PM]receive set position Data:100,19,-1.1,name:ice_gray
+[3/19/2017 5:05:51 PM]receive set position Data:100,19,-1,name:ice_gray
+[3/19/2017 5:05:54 PM]receive set position Data:100,19,-2,name:ice_gray
+[3/19/2017 5:05:58 PM]receive set position Data:100,19,-1,name:ice_gray
+[3/19/2017 5:06:05 PM]receive set position Data:100,11,-1,name:ice_gray
+[3/19/2017 5:06:08 PM]receive set position Data:100,21,-1,name:ice_gray
+[3/19/2017 5:06:13 PM]receive set position Data:50,21,-1,name:ice_gray
+[3/19/2017 5:06:24 PM]receive set position Data:70,21,-1,name:ice_gray

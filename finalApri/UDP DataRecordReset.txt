@@ -1,0 +1,28 @@
+OBJName: ice_gray;
+
+setPos;ice_gray;106,19,-1;
+
+setRotation;ice_gray;0.6648521,-0.2407729,0.2407729;
+
+setScale;ice_gray;0.6989557,0.6989563,0.6989563;
+
+=========
+OBJName: ice;
+
+setPos;ice;42.12054,13.17479,-6.241328;
+
+setRotation;ice;-0.1182246,0.6971535,-0.6971535;
+
+setScale;ice;1,1,1;
+
+=========
+OBJName: StartMenu;
+
+setPos;StartMenu;69.39063,2.523474,6.152824;
+
+setRotation;StartMenu;0,0,0;
+
+setScale;StartMenu;1,1,1;
+
+=========
+End

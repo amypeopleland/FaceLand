@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemTextureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="abc.abc">
+  <ItemTextureData>
+    <ItemTextureDataInfo>
+      <TextureId>0</TextureId>
+      <TextureName>BlueTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+	 <ItemTextureDataInfo>
+      <TextureId>1</TextureId>
+      <TextureName>PurpleTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+	 <ItemTextureDataInfo>
+      <TextureId>2</TextureId>
+      <TextureName>YelloTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+	 <ItemTextureDataInfo>
+      <TextureId>3</TextureId>
+      <TextureName>REDTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+	 <ItemTextureDataInfo>
+      <TextureId>4</TextureId>
+      <TextureName>GreenTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+	 <ItemTextureDataInfo>
+      <TextureId>5</TextureId>
+      <TextureName>OrangeTexture</TextureName>
+    </ItemTextureDataInfo>
+	
+  </ItemTextureData>
+</ItemTextureData>

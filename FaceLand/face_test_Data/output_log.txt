@@ -1,0 +1,32 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K5000 (ID=0x11ba)
+    Vendor:   NVIDIA
+    VRAM:     3897 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.Blob.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.Blob.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.CPlusPlus.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.CPlusPlus.dll into Unity Child Domain
+Platform assembly: F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.dll (this message is harmless)
+Loading F:\faceland\FaceLand\face_test_Data\Managed\OpenCvSharp.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

@@ -1,0 +1,30 @@
+=========================InitializeTheNET Starts!==========================
+This is a Server, host name is {0}WINDOWS-T4NJ8QU
+Waiting For Client!
+=========================InitializeTheNET Waiting!==========================
+========================= Starts' Preparation!==========================
+PrePare Function:strVaule:list
+PrePare Function:actionElement:list
+PrePare Function:strVaule:get
+PrePare Function:actionElement:get
+PrePare Function:strVaule:setPos
+PrePare Function:actionElement:setPos
+PrePare Function:strVaule:setRotation
+PrePare Function:actionElement:setRotation
+PrePare Function:strVaule:setScale
+PrePare Function:actionElement:setScale
+PrePare Function:strVaule:save
+PrePare Function:actionElement:save
+PrePare Function:strVaule:reset
+PrePare Function:actionElement:reset
+=========================Finish Starts' Preparation!==========================
+[4/29/2017 6:54:55 PM]receive set position Data:106,19,-1,name:ice_gray
+[4/29/2017 6:54:55 PM]receive set Rotation Data:4/29/2017 6:54:55 PM-0.005049154,-0.2578224,-0.003547289,name:ice_gray
+[4/29/2017 6:54:55 PM]:receive set position Data:0.6989557,0.6989563,0.6989563,name:ice_gray
+[4/29/2017 6:54:55 PM]receive set position Data:42.12054,13.17479,-6.241328,name:ice
+[4/29/2017 6:54:55 PM]receive set Rotation Data:4/29/2017 6:54:55 PM0.001561925,0.07568814,0.005969708,name:ice
+[4/29/2017 6:54:55 PM]:receive set position Data:1,1,1,name:ice
+[4/29/2017 6:54:55 PM]receive set position Data:69.39063,2.523474,6.152824,name:StartMenu
+[4/29/2017 6:54:55 PM]receive set Rotation Data:4/29/2017 6:54:55 PM0,0,0,name:StartMenu
+[4/29/2017 6:54:55 PM]:receive set position Data:1,1,1,name:StartMenu
+ice_gray

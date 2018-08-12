@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScorePNGData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScorePNGData>
+    <ScorePNGDataInfo>
+      <ScorePNGDataId>0</ScorePNGDataId>
+      <ScorePNGDataName>0</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>1</ScorePNGDataId>
+      <ScorePNGDataName>1</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>2</ScorePNGDataId>
+      <ScorePNGDataName>2</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>3</ScorePNGDataId>
+      <ScorePNGDataName>3</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>4</ScorePNGDataId>
+      <ScorePNGDataName>4</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>5</ScorePNGDataId>
+      <ScorePNGDataName>5</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>6</ScorePNGDataId>
+      <ScorePNGDataName>6</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>7</ScorePNGDataId>
+      <ScorePNGDataName>7</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>8</ScorePNGDataId>
+      <ScorePNGDataName>8</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>9</ScorePNGDataId>
+      <ScorePNGDataName>9</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>10</ScorePNGDataId>
+      <ScorePNGDataName>+</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+	 <ScorePNGDataInfo>
+      <ScorePNGDataId>11</ScorePNGDataId>
+      <ScorePNGDataName>-</ScorePNGDataName>
+    </ScorePNGDataInfo>
+	
+  </ScorePNGData>
+</ScorePNGData>
